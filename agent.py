@@ -71,7 +71,7 @@ async def entrypoint(ctx: agents.JobContext):
 
     
 
-    mem0 = AsyncMemoryClient(api_key="m0-fUhPcvX5Ha2fM5jOurqnQdPdlmJ3XPPUfJbDCjtQ")
+    mem0 = AsyncMemoryClient(api_key="API-KEY")
     user_name = 'David'
 
     results = await mem0.get_all(user_id=user_name)
