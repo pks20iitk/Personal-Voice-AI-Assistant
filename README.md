@@ -1,4 +1,4 @@
-# 🧠 Friday - Your Personal AI Assistant - Part 2
+# 🧠  Your Personal AI Assistant - Part 2
 
 This is a Python-based AI assistant inspired by *Jarvis*, capable of:
 
@@ -13,17 +13,6 @@ This is a Python-based AI assistant inspired by *Jarvis*, capable of:
 
 
 ---
-
-## 📽️ Tutorial Video
-
-Here is part 1 , **make sure to follow this tutorial to set up the voice agent correctly**:  
-🎥 [Watch here](https://youtu.be/An4NwL8QSQ4?si=v1dNDDonmpCG1Els)
-
-Here is part 2 **to use the memory system and the n8n MCP server follow this tutorial**:
-🎥 [Watch here](https://www.youtube.com/watch?v=gqmSKEUpRv8&ab_channel=Thanh-yDavidNguyen)
-
-
----
 1. Create the Virtual Envrionment first!
 2. Activate it
 3. Install all the required libraries in the requirements.txt file
@@ -34,9 +23,6 @@ Here is part 2 **to use the memory system and the n8n MCP server follow this tut
 7. Make sure to have a MCP Server correctly set-up.
 
 
-## Licenses
-
-- Proprietary portions: All files except `mcp_client` and portions of `agent.py` not authored by Thanh-Y Nguyen — Copyright © 2025 Thanh-Y Nguyen.  
   Licensed for private/educational use only. Redistribution, publication, or commercial use is prohibited without written permission.  
 
 - Third-party components:
